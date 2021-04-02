@@ -1,4 +1,4 @@
-package indoor.incubator.petclinic.modelindoor.incubator.petclinic.service.map;
+package indoor.incubator.petclinic.service.map;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package indoor.incubator.petclinic.modelindoor.incubator.petclinic.service;
+package indoor.incubator.petclinic.service;
 
 import indoor.incubator.petclinic.model.Vet;
 

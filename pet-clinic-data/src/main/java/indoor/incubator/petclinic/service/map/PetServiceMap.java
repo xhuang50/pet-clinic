@@ -1,7 +1,7 @@
-package indoor.incubator.petclinic.modelindoor.incubator.petclinic.service.map;
+package indoor.incubator.petclinic.service.map;
 
 import indoor.incubator.petclinic.model.Pet;
-import indoor.incubator.petclinic.modelindoor.incubator.petclinic.service.CrudService;
+import indoor.incubator.petclinic.service.CrudService;
 
 import java.util.Set;
 
