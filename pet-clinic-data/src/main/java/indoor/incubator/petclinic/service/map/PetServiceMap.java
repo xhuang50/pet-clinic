@@ -2,9 +2,11 @@ package indoor.incubator.petclinic.service.map;
 
 import indoor.incubator.petclinic.model.Pet;
 import indoor.incubator.petclinic.service.CrudService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet, Long> implements CrudService<Pet, Long> {
 
     @Override
